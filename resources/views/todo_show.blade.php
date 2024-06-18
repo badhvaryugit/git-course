@@ -35,6 +35,7 @@
                 color: white;
             }
         </style>
+        <!-- /Styles -->
     </head>
     <body class="antialiased">
 
